@@ -1,0 +1,706 @@
+{
+    "001": {
+        "names": ["博丽灵梦"],
+        "variants": 11
+    },
+    "002": {
+        "names": ["雾雨魔理沙"],
+        "variants": 9
+    },
+    "003": {
+        "names": ["神玉"],
+        "variants": 4
+    },
+    "004": {
+        "names": ["幽幻魔眼"],
+        "variants": 4
+    },
+    "005": {
+        "names": ["依莉斯"],
+        "variants": 4
+    },
+    "006": {
+        "names": ["萨丽爱尔"],
+        "variants": 4
+    },
+    "007": {
+        "names": ["魅魔"],
+        "variants": 5
+    },
+    "008": {
+        "names": ["菊理"],
+        "variants": 4
+    },
+    "009": {
+        "names": ["矜羯罗"],
+        "variants": 4
+    },
+    "010": {
+        "names": ["里香"],
+        "variants": 4
+    },
+    "012": {
+        "names": ["明罗"],
+        "variants": 4
+    },
+    "014": {
+        "names": ["爱莲"],
+        "variants": 4
+    },
+    "015": {
+        "names": ["小兔姬"],
+        "variants": 4
+    },
+    "016": {
+        "names": ["卡娜·安娜贝拉尔"],
+        "variants": 5
+    },
+    "017": {
+        "names": ["朝仓理香子"],
+        "variants": 4
+    },
+    "018": {
+        "names": ["北白河千百合"],
+        "variants": 4
+    },
+    "019": {
+        "names": ["冈崎梦美"],
+        "variants": 4
+    },
+    "020": {
+        "names": ["咪咪号&留琴"],
+        "variants": 4
+    },
+    "021": {
+        "names": ["奥莲姬"],
+        "variants": 4
+    },
+    "022": {
+        "names": ["胡桃"],
+        "variants": 4
+    },
+    "023": {
+        "names": ["艾丽"],
+        "variants": 4
+    },
+    "025": {
+        "names": ["幽香"],
+        "variants": 6
+    },
+    "026": {
+        "names": ["梦月"],
+        "variants": 4
+    },
+    "027": {
+        "names": ["幻月"],
+        "variants": 4
+    },
+    "029": {
+        "names": ["萨拉"],
+        "variants": 5
+    },
+    "030": {
+        "names": ["露易兹"],
+        "variants": 4
+    },
+    "031": {
+        "names": ["爱丽丝"],
+        "variants": 4
+    },
+    "032": {
+        "names": ["雪"],
+        "variants": 7
+    },
+    "033": {
+        "names": ["舞"],
+        "variants": 5
+    },
+    "035": {
+        "names": ["梦子"],
+        "variants": 5
+    },
+    "036": {
+        "names": ["神绮"],
+        "variants": 6
+    },
+    "037": {
+        "names": ["露米娅"],
+        "variants": 6
+    },
+    "038": {
+        "names": ["大妖精"],
+        "variants": 4
+    },
+    "039": {
+        "names": ["琪露诺"],
+        "variants": 5
+    },
+    "040": {
+        "names": ["红美铃"],
+        "variants": 8
+    },
+    "041": {
+        "names": ["小恶魔"],
+        "variants": 5
+    },
+    "042": {
+        "names": ["帕秋莉·诺蕾姬"],
+        "variants": 6
+    },
+    "043": {
+        "names": ["十六夜咲夜"],
+        "variants": 6
+    },
+    "044": {
+        "names": ["蕾米莉亚·斯卡蕾特"],
+        "variants": 6
+    },
+    "045": {
+        "names": ["芙兰朵露·斯卡蕾特"],
+        "variants": 8
+    },
+    "046": {
+        "names": ["蕾蒂·霍瓦特洛克"],
+        "variants": 4
+    },
+    "047": {
+        "names": ["橙"],
+        "variants": 4
+    },
+    "048": {
+        "names": ["莉莉白"],
+        "variants": 5
+    },
+    "049": {
+        "names": ["莉莉卡·普莉兹姆利巴"],
+        "variants": 4
+    },
+    "050": {
+        "names": ["梅露兰·普莉兹姆利巴"],
+        "variants": 4
+    },
+    "051": {
+        "names": ["露娜萨·普莉兹姆利巴"],
+        "variants": 4
+    },
+    "052": {
+        "names": ["魂魄妖梦"],
+        "variants": 5
+    },
+    "053": {
+        "names": ["西行寺幽幽子"],
+        "variants": 5
+    },
+    "054": {
+        "names": ["八云蓝"],
+        "variants": 4
+    },
+    "055": {
+        "names": ["八云紫"],
+        "variants": 4
+    },
+    "056": {
+        "names": ["宇佐见莲子"],
+        "variants": 4
+    },
+    "057": {
+        "names": ["玛艾露贝莉·赫恩"],
+        "variants": 4
+    },
+    "058": {
+        "names": ["森近霖之助"],
+        "variants": 7
+    },
+    "059": {
+        "names": ["朱鹭子"],
+        "variants": 4
+    },
+    "060": {
+        "names": ["莉格露·奈特巴格"],
+        "variants": 5
+    },
+    "061": {
+        "names": ["米斯蒂娅·萝蕾拉"],
+        "variants": 4
+    },
+    "062": {
+        "names": ["上白泽慧音"],
+        "variants": 5
+    },
+    "063": {
+        "names": ["因幡帝"],
+        "variants": 5
+    },
+    "064": {
+        "names": ["铃仙·优昙华院·因幡"],
+        "variants": 4
+    },
+    "065": {
+        "names": ["八意永琳"],
+        "variants": 5
+    },
+    "066": {
+        "names": ["蓬莱山辉夜"],
+        "variants": 4
+    },
+    "067": {
+        "names": ["藤原妹红"],
+        "variants": 4
+    },
+    "068": {
+        "names": ["伊吹萃香"],
+        "variants": 4
+    },
+    "069": {
+        "names": ["桑尼米尔克"],
+        "variants": 6
+    },
+    "070": {
+        "names": ["露娜切露德"],
+        "variants": 5
+    },
+    "071": {
+        "names": ["斯塔萨菲雅"],
+        "variants": 4
+    },
+    "072": {
+        "names": ["梅蒂欣·梅兰可莉"],
+        "variants": 9
+    },
+    "073": {
+        "names": ["射命丸文"],
+        "variants": 5
+    },
+    "074": {
+        "names": ["小野塚小町"],
+        "variants": 4
+    },
+    "075": {
+        "names": ["四季映姬·夜摩仙那度"],
+        "variants": 5
+    },
+    "076": {
+        "names": ["稗田阿求"],
+        "variants": 5
+    },
+    "077": {
+        "names": ["绵月依姬"],
+        "variants": 4
+    },
+    "078": {
+        "names": ["绵月丰姬"],
+        "variants": 4
+    },
+    "079": {
+        "names": ["Reisen"],
+        "variants": 4
+    },
+    "080": {
+        "names": ["秋静叶"],
+        "variants": 4
+    },
+    "081": {
+        "names": ["秋穰子"],
+        "variants": 4
+    },
+    "082": {
+        "names": ["键山雏"],
+        "variants": 5
+    },
+    "083": {
+        "names": ["河城荷取"],
+        "variants": 5
+    },
+    "084": {
+        "names": ["犬走椛"],
+        "variants": 4
+    },
+    "085": {
+        "names": ["东风谷早苗"],
+        "variants": 9
+    },
+    "086": {
+        "names": ["八坂神奈子"],
+        "variants": 4
+    },
+    "087": {
+        "names": ["洩矢诹访子"],
+        "variants": 4
+    },
+    "088": {
+        "names": ["永江衣玖"],
+        "variants": 4
+    },
+    "089": {
+        "names": ["比那名居天子"],
+        "variants": 4
+    },
+    "090": {
+        "names": ["琪斯美"],
+        "variants": 4
+    },
+    "091": {
+        "names": ["黑谷山女"],
+        "variants": 4
+    },
+    "092": {
+        "names": ["水桥帕露西"],
+        "variants": 4
+    },
+    "093": {
+        "names": ["星熊勇仪"],
+        "variants": 4
+    },
+    "094": {
+        "names": ["古明地觉"],
+        "variants": 5
+    },
+    "095": {
+        "names": ["火焰猫燐"],
+        "variants": 4
+    },
+    "096": {
+        "names": ["灵乌路空"],
+        "variants": 4
+    },
+    "097": {
+        "names": ["古明地恋"],
+        "variants": 4
+    },
+    "098": {
+        "names": ["娜兹玲"],
+        "variants": 4
+    },
+    "099": {
+        "names": ["多多良小伞"],
+        "variants": 4
+    },
+    "100": {
+        "names": ["云居一轮&云山"],
+        "variants": 4
+    },
+    "101": {
+        "names": ["村纱水蜜"],
+        "variants": 4
+    },
+    "102": {
+        "names": ["寅丸星"],
+        "variants": 6
+    },
+    "103": {
+        "names": ["圣白莲"],
+        "variants": 5
+    },
+    "104": {
+        "names": ["封兽鵺"],
+        "variants": 4
+    },
+    "105": {
+        "names": ["姬海棠果"],
+        "variants": 4
+    },
+    "106": {
+        "names": ["茨木华扇"],
+        "variants": 6
+    },
+    "107": {
+        "names": ["幽谷响子"],
+        "variants": 4
+    },
+    "108": {
+        "names": ["宫古芳香"],
+        "variants": 4
+    },
+    "109": {
+        "names": ["霍青娥"],
+        "variants": 4
+    },
+    "110": {
+        "names": ["苏我屠自古"],
+        "variants": 4
+    },
+    "111": {
+        "names": ["物部布都"],
+        "variants": 6
+    },
+    "112": {
+        "names": ["丰聪耳神子"],
+        "variants": 6
+    },
+    "113": {
+        "names": ["二岩猯藏"],
+        "variants": 5
+    },
+    "114": {
+        "names": ["本居小铃"],
+        "variants": 6
+    },
+    "115": {
+        "names": ["秦心"],
+        "variants": 4
+    },
+    "116": {
+        "names": ["若鹭姬"],
+        "variants": 4
+    },
+    "117": {
+        "names": ["赤蛮奇"],
+        "variants": 4
+    },
+    "118": {
+        "names": ["今泉影狼"],
+        "variants": 4
+    },
+    "119": {
+        "names": ["九十九弁弁"],
+        "variants": 4
+    },
+    "120": {
+        "names": ["九十九八桥"],
+        "variants": 4
+    },
+    "121": {
+        "names": ["鬼人正邪"],
+        "variants": 5
+    },
+    "122": {
+        "names": ["少名针妙丸"],
+        "variants": 4
+    },
+    "123": {
+        "names": ["堀川雷鼓"],
+        "variants": 4
+    },
+    "124": {
+        "names": ["宇佐见堇子"],
+        "variants": 5
+    },
+    "125": {
+        "names": ["清兰"],
+        "variants": 4
+    },
+    "126": {
+        "names": ["铃瑚"],
+        "variants": 4
+    },
+    "127": {
+        "names": ["哆来咪·苏伊特"],
+        "variants": 5
+    },
+    "128": {
+        "names": ["稀神探女"],
+        "variants": 4
+    },
+    "129": {
+        "names": ["克劳恩皮丝"],
+        "variants": 5
+    },
+    "130": {
+        "names": ["纯狐"],
+        "variants": 4
+    },
+    "131": {
+        "names": ["赫卡提亚·拉碧斯拉祖利"],
+        "variants": 4
+    },
+    "300": {
+        "names": ["浩一"],
+        "variants": 1
+    },
+    "303": {
+        "names": ["幸枝"],
+        "variants": 1
+    },
+    "304": {
+        "names": [],
+        "variants": 0
+    },
+    "306": {
+        "names": ["元幸"],
+        "variants": 1
+    },
+    "307": {
+        "names": [],
+        "variants": 1
+    },
+    "308": {
+        "names": [],
+        "variants": 1
+    },
+    "309": {
+        "names": ["治"],
+        "variants": 1
+    },
+    "310": {
+        "names": [],
+        "variants": 1
+    },
+    "311": {
+        "names": [],
+        "variants": 1
+    },
+    "312": {
+        "names": [],
+        "variants": 1
+    },
+    "313": {
+        "names": [],
+        "variants": 1
+    },
+    "314": {
+        "names": [],
+        "variants": 1
+    },
+    "315": {
+        "names": [],
+        "variants": 1
+    },
+    "317": {
+        "names": ["艾迪斯"],
+        "variants": 1
+    },
+    "318": {
+        "names": [],
+        "variants": 1
+    },
+    "319": {
+        "names": [],
+        "variants": 1
+    },
+    "320": {
+        "names": [],
+        "variants": 1
+    },
+    "321": {
+        "names": [],
+        "variants": 1
+    },
+    "322": {
+        "names": [],
+        "variants": 1
+    },
+    "323": {
+        "names": [],
+        "variants": 1
+    },
+    "324": {
+        "names": [],
+        "variants": 1
+    },
+    "325": {
+        "names": [],
+        "variants": 1
+    },
+    "326": {
+        "names": [],
+        "variants": 1
+    },
+    "327": {
+        "names": [],
+        "variants": 1
+    },
+    "328": {
+        "names": [],
+        "variants": 1
+    },
+    "329": {
+        "names": [],
+        "variants": 1
+    },
+    "330": {
+        "names": [],
+        "variants": 1
+    },
+    "331": {
+        "names": [],
+        "variants": 1
+    },
+    "332": {
+        "names": [],
+        "variants": 1
+    },
+    "334": {
+        "names": [],
+        "variants": 1
+    },
+    "340": {
+        "names": [],
+        "variants": 1
+    },
+    "341": {
+        "names": [],
+        "variants": 1
+    },
+    "342": {
+        "names": [],
+        "variants": 1
+    },
+    "343": {
+        "names": [],
+        "variants": 1
+    },
+    "344": {
+        "names": [],
+        "variants": 1
+    },
+    "353": {
+        "names": [],
+        "variants": 1
+    },
+    "354": {
+        "names": [],
+        "variants": 1
+    },
+    "355": {
+        "names": [],
+        "variants": 2
+    },
+    "356": {
+        "names": [],
+        "variants": 1
+    },
+    "357": {
+        "names": [],
+        "variants": 1
+    },
+    "358": {
+        "names": [],
+        "variants": 1
+    },
+    "945": {
+        "names": [],
+        "variants": 4
+    },
+    "946": {
+        "names": ["宇佐见堇子"],
+        "variants": 5
+    },
+    "947": {
+        "names": ["稗田阿求"],
+        "variants": 5
+    },
+    "949": {
+        "names": ["留琴"],
+        "variants": 4
+    },
+    "952": {
+        "names": ["咪咪号"],
+        "variants": 1
+    },
+    "957": {
+        "names": [],
+        "variants": 6
+    },
+    "958": {
+        "names": ["神绮"],
+        "variants": 1
+    },
+    "966": {
+        "names": ["幻月&梦月"],
+        "variants": 1
+    },
+    "974": {
+        "names": ["茨木华扇"],
+        "variants": 6
+    }
+}
