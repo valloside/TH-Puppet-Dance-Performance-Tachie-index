@@ -13,8 +13,6 @@ a {
     color: #fff;
 }
 
-
-
 .background {
     position: fixed;
     height: 100%;
@@ -48,9 +46,13 @@ a {
     }
 }
 
-@media(min-width:1200px) {
+main {
+    width: 350px;
+}
+
+@media (min-width: 768px) {
     main {
-        width: 1170px
+        width: 750px;
     }
 }
 
@@ -60,9 +62,9 @@ a {
     }
 }
 
-@media (min-width: 768px) {
+@media(min-width:1200px) {
     main {
-        width: 750px;
+        width: 1170px
     }
 }
 
@@ -105,6 +107,7 @@ main {
     padding-left: 15px;
     padding-right: 15px;
     padding-top: 75px;
+    max-width: 80%;
     flex: 1;
     display: flex;
     flex-direction: column;
