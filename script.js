@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         const subImages = Array.from({ length: variants })
             .map((_, index) => {
                 const subId = index.toString().padStart(2, "0");
-                return `<img data-src="images/${id}_${subId}.png" alt="${id}_${subId}" class="lazy">`;
+                return `<img data-src="images/${id}_${subId}.png" alt="${id}_${subId}" class="lazy" style="width: 150px; height: auto; object-fit: cover;">`;
             })
             .join("");
 
